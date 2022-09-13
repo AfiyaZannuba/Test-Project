@@ -3,7 +3,8 @@ function login(name, password) {
         return "Logged In"
     }
     else {
-        return "Incorrect Password"
+        return "Invalid Credentials"
+
     }
 }
 
